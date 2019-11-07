@@ -1,0 +1,9 @@
+/allItems/ https://csc648-11.herokuapp.com/allItems 200
+/api/* https://csc648-11.herokuapp.com/api/:splat  200
+/api/approval/* https://csc648-11.herokuapp.com/api/approval/:splat 200
+/api/delete/* https://csc648-11.herokuapp.com/api/delete/:splat 200
+/auth/* https://csc648-11.herokuapp.com/auth/:splat 200
+/messages/ https://csc648-11.herokuapp.com/messages 200
+/messages/* https://csc648-11.herokuapp.com/messages/:splat 200
+/*  /index.html  200
+

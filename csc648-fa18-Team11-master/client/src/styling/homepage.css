@@ -1,0 +1,43 @@
+/* ======== FRONT PAGE ======== */
+.Welcome {
+    text-align: center;
+  }
+
+  .Banner {
+    font-size: 25px;
+    border-radius: 35%;
+  }
+
+  .Header {
+    text-align: center;
+    font-size: 20px;
+  }
+
+
+  .Recent {
+    content: "";
+    display: block;
+    clear: both;
+    text-align: center;
+    padding: auto;
+  }
+
+  .Column { 
+    display: inline-block;
+    align-items: center;
+    vertical-align: middle;
+    width: 33.33%;
+    min-width: 350px;
+    height: 450px;
+    border-style: ridge;
+    border-color: #ffffff21;
+    margin-left: auto;
+    margin-right:auto;
+    padding: auto;
+  }
+
+  .footer{
+    display: block;
+    position: fixed;
+    bottom: 0;
+  }
